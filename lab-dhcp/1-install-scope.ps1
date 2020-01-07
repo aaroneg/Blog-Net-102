@@ -42,4 +42,4 @@ $V6ExclusionRange=@{
 }
 Add-DhcpServerv6ExclusionRange @V6ExclusionRange
 
-# We're not setting a router address - IPv6 includes an automatic address all routers listen on.
+# We're not setting a router address - IPv6 includes an automatic address all routers listen on. Also router advertisements are a thing.
