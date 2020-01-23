@@ -1,6 +1,6 @@
 # Change these to match the config in your documentation
 $IPv6Address='fdda:f6d4:f5a2:f1e6::3'
-$IPv6PrefixLength='120'
+$IPv6PrefixLength='64'
 $IPv6Gateway='fdda:f6d4:f5a2:f1e6::1'
 $IPv6DNSServer='fdda:f6d4:f5a2:f1e6::2'
 $IPv4Gateway='10.248.100.1'
